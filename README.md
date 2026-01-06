@@ -30,9 +30,10 @@ Sou estudante de **Licenciatura em Computação** no IFSul e **Análise e Desenv
 ## 🌱 Aprendendo agora
 
 Focado em expandir meus conhecimentos em:
-- 🎯 Arquitetura de software e design patterns
-- 📚 Metodologias ativas de ensino em tecnologia
-- 🔐 Segurança da informação e boas práticas
+- 🔧 **Backend avançado:** NestJS, arquitetura de APIs RESTful e GraphQL
+- ⚛️ **React:** Hooks, gerenciamento de estado e componentização
+- 📊 **Modelagem de dados:** Design de bancos de dados relacionais, normalização e otimização de queries
+- 🎨 **Boas práticas:** Clean Code, SOLID e padrões de projeto
 
 ## 📂 Projeto em Destaque
 
