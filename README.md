@@ -30,7 +30,7 @@ Focado em expandir meus conhecimentos em:
 
 ## 📂 Projeto em Destaque
 
-### 🎯 [SGAM - Sistema de Gerenciamento de Agência](https://github.com/seu-usuario/sgam)
+### 🎯 [SGAM - Sistema de Gerenciamento de Agência](https://github.com/enrique-ss/sgam)
 Sistema desenvolvido no programa RSTI Backend para gerenciar fluxo de trabalho de agências criativas.
 - **Stack:** TypeScript, Node.js, MySQL, Express
 - **Destaque:** Modelagem de dados robusta e documentação técnica completa
