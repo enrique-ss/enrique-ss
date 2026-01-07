@@ -5,7 +5,7 @@
 
 ## 🎓 Sobre mim
 
-Sou estudante de **Licenciatura em Computação** no IFSul e **Análise e Desenvolvimento de Sistemas** na UniFacitie. Minha paixão está na interseção entre tecnologia e educação — acredito que compartilhar conhecimento é a melhor forma de solidificá-lo.
+Sou estudante de **Licenciatura em Computação** no IFSul e **Análise e Desenvolvimento de Sistemas** na UniFacitie. Minha paixão está na interseção entre tecnologia e educação. Acredito que compartilhar conhecimento é a melhor forma de solidificá-lo.
 
 ## 🛠️ Stack Tecnológica
 
