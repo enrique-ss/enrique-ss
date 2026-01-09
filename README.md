@@ -1,10 +1,5 @@
 # 💻 Olá! Eu sou o Enrique Silveira 👋
 
-> **Desenvolvedor Full-Stack & Educador em Tecnologia**  
-> *"Código e caderno abertos: aprender para ensinar e aprender cada vez mais"*
-
-## 🎓 Sobre mim
-
 Sou estudante de **Licenciatura em Computação** no IFSul e **Análise e Desenvolvimento de Sistemas** na UniFacitie. Minha paixão está na interseção entre tecnologia e educação. Acredito que compartilhar conhecimento é a melhor forma de solidificá-lo.
 
 ## 🛠️ Stack Tecnológica
@@ -35,5 +30,3 @@ Sistema desenvolvido no programa RSTI Backend para gerenciar fluxo de trabalho d
 - **Stack:** TypeScript, Node.js, MySQL, Express
 - **Destaque:** Modelagem de dados robusta e documentação técnica completa
 - **Aprendizados:** Trabalho em equipe com Git, arquitetura de software, regras de negócio
-
-💡 *"A melhor forma de aprender é ensinando, e a melhor forma de ensinar é aprendendo constantemente"*
