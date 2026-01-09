@@ -36,23 +36,4 @@ Sistema desenvolvido no programa RSTI Backend para gerenciar fluxo de trabalho d
 - **Destaque:** Modelagem de dados robusta e documentação técnica completa
 - **Aprendizados:** Trabalho em equipe com Git, arquitetura de software, regras de negócio
 
-## 🎓 Formação
-
-**Licenciatura em Computação** - IFSul (2026 - Cursando)  
-Formação de educadores em tecnologia, integrando programação, sistemas e pedagogia
-
-**Análise e Desenvolvimento de Sistemas** - UniFacitie (2022 - Cursando)  
-Desenvolvimento completo de soluções tecnológicas, do planejamento à entrega
-
-**RSTI - Desenvolvimento Back End** - Senac (2025)  
-Aplicações com TypeScript, Node.js, MySQL e criação de APIs
-
-**Oracle Next Education** - Oracle + Alura (2022-2023)  
-Formação em lógica, Java, Data Science e IA
-
-## 💼 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-enrique-ss)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:enriqueabyss@gmail.com)
-
 💡 *"A melhor forma de aprender é ensinando, e a melhor forma de ensinar é aprendendo constantemente"*
