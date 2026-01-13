@@ -4,7 +4,6 @@ Sou estudante de **Licenciatura em Computação** no IFSul e **Análise e Desenv
 
 ## 🌱 Aprendendo agora
 
-Focado em expandir meus conhecimentos em:
 - 🔧 **Backend:** Node.js, JavaScript, TypeScript e APIs REST
 - ⚛️ **Frontend:** HTML, CSS, JavaScript e React
 - 🎨 **Boas práticas:** Clean Code, SOLID, Arquitetura de Dados e Git
@@ -12,7 +11,7 @@ Focado em expandir meus conhecimentos em:
 ## 📂 Projeto em Destaque
 
 ### 🎯 [SGAM - Sistema de Gerenciamento de Agência](https://github.com/enrique-ss/sgam)
-Sistema desenvolvido no programa RSTI Backend para gerenciar fluxo de trabalho de agências criativas.
+
 - **Stack:** TypeScript, Node.js, MySQL, Express
 - **Destaque:** Modelagem de dados robusta e documentação técnica completa
 - **Aprendizados:** Trabalho em equipe com Git, arquitetura de software, regras de negócio
