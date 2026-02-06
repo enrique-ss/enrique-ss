@@ -10,8 +10,8 @@ Sou estudante de **Licenciatura em Computação** no IFSul e **Análise e Desenv
 
 ## 📂 Projeto em Destaque
 
-### 🎯 [SGAM - Sistema de Gerenciamento de Agência](https://github.com/enrique-ss/sgam)
+### 🎯 [Biblioteca-Backend-Frontend](https://github.com/enrique-ss/biblioteca-backend-frontend)
 
 - **Stack:** TypeScript, Node.js, MySQL, Express
-- **Destaque:** Modelagem de dados robusta e documentação técnica completa
-- **Aprendizados:** Trabalho em equipe com Git, arquitetura de software, regras de negócio
+- **Destaque:** CLI sem regras de negócios, apenas para visualizar o backend com faclidade
+- **Aprendizados:** Arquitetura de software, regras de negócio e mesclar backend com frontend
