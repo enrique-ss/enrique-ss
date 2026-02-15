@@ -4,13 +4,13 @@ Sou estudante de **Licenciatura em Computação** no IFSul e **Análise e Desenv
 
 ## 🌱 Aprendendo agora
 
-- 🔧 **Backend:** JavaScript, TypeScript e API REST
-- ⚛️ **Frontend:** Three.js, Gsap e React
-- 🎨 **Boas práticas:** Clean Code, SOLID e Arquitetura de Dados
+- **Backend:** JavaScript, TypeScript e API REST
+- **Frontend:** Three.js, Gsap e React
+- **Boas práticas:** Clean Code, SOLID e Arquitetura de Dados
 
 ## 📂 Projeto em Destaque
 
-### 🎯 [Biblioteca-Backend-Frontend](https://github.com/enrique-ss/biblioteca-backend-frontend)
+### [Biblioteca-Backend-Frontend](https://github.com/enrique-ss/biblioteca-backend-frontend)
 
 - **Stack:** TypeScript, Node.js, MySQL, Express
 - **Destaque:** CLI sem regras de negócios, apenas para visualizar requisições backend
