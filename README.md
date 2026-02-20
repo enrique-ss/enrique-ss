@@ -1,6 +1,6 @@
 # Olá! Eu sou o Enrique Silveira 👋
 
-Sou estudante de **Licenciatura em Computação** no IFSul e **Análise e Desenvolvimento de Sistemas** na UniFacitie. Minha paixão está na interseção entre tecnologia e educação. Acredito que compartilhar conhecimento é a melhor forma de solidificá-lo.
+Estudante de **Licenciatura em Computação (IFSul)** e **Análise e Desenvolvimento de Sistemas (UniFacitie)**. Acredito que conhecimento só faz sentido quando compartilhado e que a tecnologia deve ser acessível a quem mais precisa. Meu propósito é estar onde meus alunos estão e criar pontes para o conhecimento.
 
 ## 🌱 Aprendendo agora
 
