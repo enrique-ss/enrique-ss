@@ -15,16 +15,16 @@ Acredito que conhecimento só faz sentido quando compartilhado e que a tecnologi
 
 ## 🛠️ Habilidades técnicas
 
-**Backend: **
+**Backend:**
 `JavaScript` `TypeScript` `Node.js` `Express` `MySQL` `Knex`
 
-**Frontend: **
+**Frontend:**
 `React` `Three.js` `GSAP` `HTML/CSS`
 
-**Boas práticas: **
+**Boas práticas:**
 `Clean Code` `SOLID` `Arquitetura de Software` `JWT` `CLI`
 
-**Ferramentas de ensino: **
+**Ferramentas de ensino:**
 `Canva` `Excel` `PowerPoint` `Google Workspace` `OBS Studio` `Markdown` `Google Classroom` `Miro`
 
 ---
