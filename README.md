@@ -14,4 +14,4 @@ Estudante de **Licenciatura em Computação (IFSul)** e **Análise e Desenvolvim
 
 - **Stack:** TypeScript, HTML/CSS, Javascript, MySQL, Express, JWT e CLI
 - **Destaque:** CLI sem regras de negócios, apenas para visualizar requisições backend
-- **Aprendizados:** Arquitetura de software, documentar regras de negócio e mesclar backend com frontend
+- **Aprendizados:** Arquitetura de software, documentar regras de negócio e programação full-stack
