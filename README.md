@@ -29,7 +29,7 @@ Acredito que conhecimento só faz sentido quando compartilhado e que a tecnologi
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Projeto em destaque
 
 ### [Biblioteca-Backend-Frontend](https://github.com/enrique-ss/Biblioteca-Backend-Frontend)
 Sistema completo de biblioteca com separação clara de responsabilidades.
