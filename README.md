@@ -34,7 +34,7 @@ Acredito que conhecimento só faz sentido quando compartilhado e que a tecnologi
 ### [Biblioteca-Backend-Frontend](https://github.com/enrique-ss/Biblioteca-Backend-Frontend)
 Sistema completo de biblioteca com separação clara de responsabilidades.
 
-- **Stack:** TypeScript · HTML/CSS · JavaScript · MySQL · Express · JWT
+- **Stack:** `TypeScript` `HTML/CSS` `JavaScript` `MySQL` `Express` `JWT` `CLI`
 - **Destaque:** CLI desacoplada das regras de negócio, usada apenas para visualizar requisições backend
 - **Aprendizados:** Arquitetura de software, documentação de regras de negócio e integração backend/frontend
 
