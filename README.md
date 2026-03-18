@@ -12,6 +12,6 @@ Estudante de **Licenciatura em Computação (IFSul)** e **Análise e Desenvolvim
 
 ### [Biblioteca-Backend-Frontend](https://github.com/enrique-ss/biblioteca-backend-frontend)
 
-- **Stack:** TypeScript, Node.js, MySQL, Express
+- **Stack:** TypeScript, HTML/CSS, Javascript, MySQL, Express e CLI
 - **Destaque:** CLI sem regras de negócios, apenas para visualizar requisições backend
 - **Aprendizados:** Arquitetura de software, documentar regras de negócio e mesclar backend com frontend
