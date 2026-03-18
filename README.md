@@ -31,7 +31,7 @@ Acredito que conhecimento só faz sentido quando compartilhado e que a tecnologi
 
 ## 📂 Projetos em destaque
 
-### 📚 [Biblioteca-Backend-Frontend](https://github.com/enrique-ss/Biblioteca-Backend-Frontend)
+### [Biblioteca-Backend-Frontend](https://github.com/enrique-ss/Biblioteca-Backend-Frontend)
 Sistema completo de biblioteca com separação clara de responsabilidades.
 
 - **Stack:** TypeScript · HTML/CSS · JavaScript · MySQL · Express · JWT
@@ -42,7 +42,7 @@ Sistema completo de biblioteca com separação clara de responsabilidades.
 
 ## 📓 Anotações da Faculdade
 
-### 🎓 [IFSul | Licenciatura em Computação](https://github.com/enrique-ss/anotacoes-ifsul)
+### [IFSul | Licenciatura em Computação](https://github.com/enrique-ss/anotacoes-ifsul)
 Anotações pessoais de aula, organizadas por semestre e matéria, escritas em Markdown.
 
 - Estrutura por semestre → matéria → aula
@@ -53,9 +53,3 @@ Anotações pessoais de aula, organizadas por semestre e matéria, escritas em M
 > As anotações refletem meu entendimento no momento de cada aula e são ajustadas ao longo do curso.
 
 ---
-
-## 📫 Contato
-
-<!-- Adicione seus links aqui -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/enrique-ss)
