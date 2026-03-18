@@ -1,7 +1,7 @@
 # Olá, eu sou o Enrique Silveira 👋
 
 Estudante de **Licenciatura em Computação** (IFSul) e **Análise e Desenvolvimento de Sistemas** (UniFacitie).  
-Acredito que conhecimento só faz sentido quando compartilhado — e que tecnologia deve ser acessível a todos.
+Acredito que conhecimento só faz sentido quando compartilhado e que a tecnologia deve ser acessível a todos.
 
 ---
 
@@ -23,6 +23,10 @@ Acredito que conhecimento só faz sentido quando compartilhado — e que tecnolo
 
 **Boas práticas**
 `Clean Code` `SOLID` `Arquitetura de Software` `JWT` `CLI`
+
+**Ferramentas de ensino**
+`Canva` `Excel` `PowerPoint` `Google Workspace` `OBS Studio` `Markdown`
+`Google Classroom` `Miro`
 
 ---
 
