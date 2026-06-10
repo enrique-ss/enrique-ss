@@ -41,7 +41,7 @@ Acredito que conhecimento só faz sentido quando compartilhado e que a tecnologi
 
 ---
 
-## 📂 Projetos em Destaque (Ordenados por Complexidade)
+## 📂 Projetos em Destaque
 
 ### 🚌 [OnBus](https://github.com/T4vinh0h/Projeto-OnBus)
 Plataforma full-stack de bilhetagem eletrônica para transporte coletivo urbano.
@@ -64,9 +64,3 @@ Painel e sistema de gerenciamento de fichas de personagens para RPG de mesa.
 - **Stack:** `Node.js`, `Express.js`, `Socket.io`, `Supabase`, `SQLite`, `JWT`
 
 ---
-
-## 📬 Contato
-
-- **E-mail:** [enriqueabyss@gmail.com](mailto:enriqueabyss@gmail.com)
-- **LinkedIn:** [luiz-enrique-ss](https://www.linkedin.com/in/luiz-enrique-ss/)
-- **Portfólio Web:** [enrique-ss.github.io/portifolio](https://enrique-ss.github.io/portifolio)
