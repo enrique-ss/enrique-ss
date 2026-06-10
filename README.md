@@ -39,15 +39,3 @@ Sistema completo de biblioteca com separação clara de responsabilidades.
 - **Aprendizados:** Arquitetura de software, documentação de regras de negócio e integração backend/frontend
 
 ---
-
-## 📓 Anotações da Faculdade
-
-### [IFSul | Licenciatura em Computação](https://github.com/enrique-ss/ifsul-licenciatura-computacao)
-Anotações pessoais de aula, organizadas por semestre e matéria, escritas em Markdown.
-
-- Estrutura por semestre → matéria → aula
-- Cada arquivo segue um padrão fixo: título, data, conteúdo, exemplos, exercícios, dúvidas e observações
-- Fluxo: anotações rápidas no mobile → organização no VS Code → versionamento via Git
-- Em breve: visualização via HTML/CSS
-
----
