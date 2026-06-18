@@ -1,4 +1,4 @@
-# Olá, eu sou o Luiz Enrique Silveira.
+# Olá, eu sou o Enrique Silveira.
 
 Estudante de **Licenciatura em Computação** (IFSul), **Análise e Desenvolvimento de Sistemas** (UniFacitie) e **Técnico em Desenvolvimento de Sistemas** (Senac).  
 
