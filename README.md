@@ -1,15 +1,6 @@
-# Olá, eu sou o Enrique Silveira 👋
+# Olá, eu sou o Luiz Enrique Silveira.
 
 Estudante de **Licenciatura em Computação** (IFSul), **Análise e Desenvolvimento de Sistemas** (UniFacitie) e **Técnico em Desenvolvimento de Sistemas** (Senac).  
-Acredito que conhecimento só faz sentido quando compartilhado e que a tecnologia deve ser acessível a todos.
-
----
-
-## 👨‍🏫 Sobre mim
-
-- 🎓 **Professor em formação** focado em tornar o aprendizado de computação didático e inclusivo.
-- 📝 **Compartilhamento**: Mantenho anotações públicas para auxiliar outros estudantes de TI.
-- 💻 **Foco técnico**: Unir arquiteturas backend resilientes com interfaces frontend fluidas e animadas.
 
 ---
 
