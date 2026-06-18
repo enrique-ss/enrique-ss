@@ -2,8 +2,6 @@
 
 Estudante de **Licenciatura em Computação** (IFSul), **Análise e Desenvolvimento de Sistemas** (UniFacitie) e **Técnico em Desenvolvimento de Sistemas** (Senac).  
 
----
-
 ## 🛠️ Habilidades Técnicas
 
 ### Backend & Banco de Dados
@@ -29,5 +27,3 @@ Estudante de **Licenciatura em Computação** (IFSul), **Análise e Desenvolvime
 - **Comunicação & Protocolos:** REST APIs, WebSockets (Socket.io), Autenticação JWT
 - **Interfaces:** Interfaces Web Responsivas, CLI (Command Line Interfaces)
 - **Ferramentas de Ensino:** Markdown, OBS Studio, Google Classroom, Miro
-
----
