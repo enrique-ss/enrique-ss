@@ -2,7 +2,7 @@
 
 Estudante de **Licenciatura em Computação** (IFSul), **Análise e Desenvolvimento de Sistemas** (UniFacitie) e **Técnico em Desenvolvimento de Sistemas** (Senac).  
 
-## 🛠️ Habilidades Técnicas
+---
 
 ### Backend & Banco de Dados
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -26,4 +26,4 @@ Estudante de **Licenciatura em Computação** (IFSul), **Análise e Desenvolvime
 - **Boas Práticas:** Clean Code, SOLID, Clean Architecture
 - **Comunicação & Protocolos:** REST APIs, WebSockets (Socket.io), Autenticação JWT
 - **Interfaces:** Interfaces Web Responsivas, CLI (Command Line Interfaces)
-- **Ferramentas de Ensino:** Markdown, OBS Studio, Google Classroom, Miro
+- **Ferramentas de Ensino:** Markdown, Google Classroom, Miro
