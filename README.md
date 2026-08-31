@@ -9,7 +9,7 @@
 
 <!-- Sprite do Personagem estilo Pixel Art -->
 <a href="https://enrique-ss.github.io/portifolio/" target="_blank">
-  <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=Enrique&backgroundColor=0d1117" width="120" alt="Pixel Avatar" />
+  <img src="download20260801020042.png" width="120" alt="Pixel Avatar" />
 </a>
 
 <br /><br />
